@@ -1,5 +1,4 @@
 <?php
-echo 12121;
 /**
  * Application requirement checker script.
  *
